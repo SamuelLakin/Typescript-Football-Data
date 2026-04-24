@@ -1,0 +1,81 @@
+{
+  "competition": "Premier League",
+  "season": "2024-25",
+  "matches": [
+    {
+      "id": "m001",
+      "date": "2024-09-01",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Liverpool",
+      "events": [
+        { "minute": 12, "type": "goal",         "player": "Bukayo Saka",         "team": "Arsenal" },
+        { "minute": 34, "type": "yellow_card",   "player": "Declan Rice",         "team": "Arsenal" },
+        { "minute": 45, "type": "goal",          "player": "Mohamed Salah",       "team": "Liverpool" },
+        { "minute": 60, "type": "substitution",  "player": "Leandro Trossard",    "team": "Arsenal" },
+        { "minute": 78, "type": "goal",          "player": "Mohamed Salah",       "team": "Liverpool" },
+        { "minute": 85, "type": "yellow_card",   "player": "Virgil van Dijk",     "team": "Liverpool" },
+        { "minute": 90, "type": "goal",          "player": "Kai Havertz",         "team": "Arsenal" }
+      ]
+    },
+    {
+      "id": "m002",
+      "date": "2024-09-08",
+      "homeTeam": "Manchester City",
+      "awayTeam": "Chelsea",
+      "events": [
+        { "minute": 5,  "type": "goal",          "player": "Erling Haaland",      "team": "Manchester City" },
+        { "minute": 22, "type": "yellow_card",   "player": "Enzo Fernandez",      "team": "Chelsea" },
+        { "minute": 38, "type": "goal",          "player": "Cole Palmer",         "team": "Chelsea" },
+        { "minute": 41, "type": "substitution",  "player": "Phil Foden",          "team": "Manchester City" },
+        { "minute": 55, "type": "goal",          "player": "Erling Haaland",      "team": "Manchester City" },
+        { "minute": 70, "type": "red_card",      "player": "Nicolas Jackson",     "team": "Chelsea" },
+        { "minute": 88, "type": "goal",          "player": "Phil Foden",          "team": "Manchester City" }
+      ]
+    },
+    {
+      "id": "m003",
+      "date": "2024-09-15",
+      "homeTeam": "Liverpool",
+      "awayTeam": "Manchester City",
+      "events": [
+        { "minute": 8,  "type": "goal",          "player": "Luis Diaz",           "team": "Liverpool" },
+        { "minute": 19, "type": "yellow_card",   "player": "Rodri",               "team": "Manchester City" },
+        { "minute": 33, "type": "goal",          "player": "Erling Haaland",      "team": "Manchester City" },
+        { "minute": 47, "type": "substitution",  "player": "Darwin Nunez",        "team": "Liverpool" },
+        { "minute": 63, "type": "goal",          "player": "Mohamed Salah",       "team": "Liverpool" },
+        { "minute": 77, "type": "yellow_card",   "player": "Manuel Akanji",       "team": "Manchester City" },
+        { "minute": 89, "type": "goal",          "player": "Darwin Nunez",        "team": "Liverpool" }
+      ]
+    },
+    {
+      "id": "m004",
+      "date": "2024-09-22",
+      "homeTeam": "Chelsea",
+      "awayTeam": "Arsenal",
+      "events": [
+        { "minute": 15, "type": "goal",          "player": "Cole Palmer",         "team": "Chelsea" },
+        { "minute": 28, "type": "yellow_card",   "player": "Gabriel Magalhaes",   "team": "Arsenal" },
+        { "minute": 36, "type": "goal",          "player": "Bukayo Saka",         "team": "Arsenal" },
+        { "minute": 52, "type": "substitution",  "player": "Noni Madueke",        "team": "Chelsea" },
+        { "minute": 58, "type": "goal",          "player": "Nicolas Jackson",     "team": "Chelsea" },
+        { "minute": 74, "type": "red_card",      "player": "Declan Rice",         "team": "Arsenal" },
+        { "minute": 90, "type": "goal",          "player": "Cole Palmer",         "team": "Chelsea" }
+      ]
+    },
+    {
+      "id": "m005",
+      "date": "2024-09-29",
+      "homeTeam": "Arsenal",
+      "awayTeam": "Manchester City",
+      "events": [
+        { "minute": 3,  "type": "goal",          "player": "Erling Haaland",      "team": "Manchester City" },
+        { "minute": 21, "type": "yellow_card",   "player": "Bukayo Saka",         "team": "Arsenal" },
+        { "minute": 40, "type": "goal",          "player": "Martin Odegaard",     "team": "Arsenal" },
+        { "minute": 44, "type": "substitution",  "player": "Bernardo Silva",      "team": "Manchester City" },
+        { "minute": 67, "type": "goal",          "player": "Erling Haaland",      "team": "Manchester City" },
+        { "minute": 80, "type": "yellow_card",   "player": "William Saliba",      "team": "Arsenal" },
+        { "minute": 90, "type": "goal",          "player": "Leandro Trossard",    "team": "Arsenal" }
+      ]
+    }
+  ]
+}

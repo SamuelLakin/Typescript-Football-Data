@@ -1,0 +1,137 @@
+{
+  "tournament": "Champions League",
+  "season": "2024-25",
+  "groups": [
+    {
+      "id": "A",
+      "teams": ["Arsenal", "Barcelona", "Porto", "PSV"],
+      "matches": [
+        {
+          "id": "g-a-001",
+          "date": "2024-10-02",
+          "homeTeam": "Arsenal",
+          "awayTeam": "PSV",
+          "events": [
+            { "minute": 14, "type": "goal",        "player": "Bukayo Saka",      "team": "Arsenal" },
+            { "minute": 27, "type": "yellow_card",  "player": "Declan Rice",      "team": "Arsenal" },
+            { "minute": 45, "type": "goal",         "player": "Luuk de Jong",     "team": "PSV" },
+            { "minute": 61, "type": "substitution", "player": "Kai Havertz",      "team": "Arsenal" },
+            { "minute": 73, "type": "goal",         "player": "Bukayo Saka",      "team": "Arsenal" },
+            { "minute": 88, "type": "yellow_card",  "player": "Joey Veerman",     "team": "PSV" }
+          ]
+        },
+        {
+          "id": "g-a-002",
+          "date": "2024-10-02",
+          "homeTeam": "Barcelona",
+          "awayTeam": "Porto",
+          "events": [
+            { "minute": 8,  "type": "goal",         "player": "Raphinha",         "team": "Barcelona" },
+            { "minute": 22, "type": "yellow_card",  "player": "Pepe",             "team": "Porto" },
+            { "minute": 39, "type": "goal",         "player": "Raphinha",         "team": "Barcelona" },
+            { "minute": 55, "type": "goal",         "player": "Galeno",           "team": "Porto" },
+            { "minute": 68, "type": "substitution", "player": "Ferran Torres",    "team": "Barcelona" },
+            { "minute": 79, "type": "red_card",     "player": "Pepe",             "team": "Porto" },
+            { "minute": 85, "type": "goal",         "player": "Ferran Torres",    "team": "Barcelona" }
+          ]
+        },
+        {
+          "id": "g-a-003",
+          "date": "2024-10-23",
+          "homeTeam": "Porto",
+          "awayTeam": "Arsenal",
+          "events": [
+            { "minute": 5,  "type": "goal",         "player": "Galeno",           "team": "Porto" },
+            { "minute": 18, "type": "yellow_card",  "player": "Gabriel Magalhaes","team": "Arsenal" },
+            { "minute": 34, "type": "goal",         "player": "Martin Odegaard",  "team": "Arsenal" },
+            { "minute": 50, "type": "goal",         "player": "Martin Odegaard",  "team": "Arsenal" },
+            { "minute": 63, "type": "substitution", "player": "Evanilson",        "team": "Porto" },
+            { "minute": 77, "type": "yellow_card",  "player": "Declan Rice",      "team": "Arsenal" },
+            { "minute": 90, "type": "goal",         "player": "Kai Havertz",      "team": "Arsenal" }
+          ]
+        },
+        {
+          "id": "g-a-004",
+          "date": "2024-10-23",
+          "homeTeam": "PSV",
+          "awayTeam": "Barcelona",
+          "events": [
+            { "minute": 11, "type": "goal",         "player": "Luuk de Jong",     "team": "PSV" },
+            { "minute": 29, "type": "yellow_card",  "player": "Frenkie de Jong",  "team": "Barcelona" },
+            { "minute": 44, "type": "goal",         "player": "Raphinha",         "team": "Barcelona" },
+            { "minute": 58, "type": "goal",         "player": "Raphinha",         "team": "Barcelona" },
+            { "minute": 71, "type": "substitution", "player": "Noa Lang",         "team": "PSV" },
+            { "minute": 83, "type": "red_card",     "player": "Noa Lang",         "team": "PSV" },
+            { "minute": 89, "type": "goal",         "player": "Ferran Torres",    "team": "Barcelona" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "B",
+      "teams": ["Liverpool", "Real Madrid", "AC Milan", "Celtic"],
+      "matches": [
+        {
+          "id": "g-b-001",
+          "date": "2024-10-02",
+          "homeTeam": "Liverpool",
+          "awayTeam": "AC Milan",
+          "events": [
+            { "minute": 9,  "type": "goal",         "player": "Mohamed Salah",    "team": "Liverpool" },
+            { "minute": 23, "type": "yellow_card",  "player": "Tijjani Reijnders","team": "AC Milan" },
+            { "minute": 37, "type": "goal",         "player": "Rafael Leao",      "team": "AC Milan" },
+            { "minute": 52, "type": "goal",         "player": "Luis Diaz",        "team": "Liverpool" },
+            { "minute": 65, "type": "substitution", "player": "Darwin Nunez",     "team": "Liverpool" },
+            { "minute": 80, "type": "goal",         "player": "Mohamed Salah",    "team": "Liverpool" },
+            { "minute": 87, "type": "yellow_card",  "player": "Virgil van Dijk",  "team": "Liverpool" }
+          ]
+        },
+        {
+          "id": "g-b-002",
+          "date": "2024-10-02",
+          "homeTeam": "Real Madrid",
+          "awayTeam": "Celtic",
+          "events": [
+            { "minute": 7,  "type": "goal",         "player": "Vinicius Jr",      "team": "Real Madrid" },
+            { "minute": 19, "type": "yellow_card",  "player": "Callum McGregor",  "team": "Celtic" },
+            { "minute": 33, "type": "goal",         "player": "Kylian Mbappe",    "team": "Real Madrid" },
+            { "minute": 48, "type": "goal",         "player": "Kylian Mbappe",    "team": "Real Madrid" },
+            { "minute": 60, "type": "substitution", "player": "Rodrygo",          "team": "Real Madrid" },
+            { "minute": 74, "type": "goal",         "player": "Nicolas Kuhn",     "team": "Celtic" },
+            { "minute": 90, "type": "goal",         "player": "Rodrygo",          "team": "Real Madrid" }
+          ]
+        },
+        {
+          "id": "g-b-003",
+          "date": "2024-10-23",
+          "homeTeam": "AC Milan",
+          "awayTeam": "Real Madrid",
+          "events": [
+            { "minute": 15, "type": "goal",         "player": "Rafael Leao",      "team": "AC Milan" },
+            { "minute": 28, "type": "yellow_card",  "player": "Luka Modric",      "team": "Real Madrid" },
+            { "minute": 42, "type": "goal",         "player": "Vinicius Jr",      "team": "Real Madrid" },
+            { "minute": 56, "type": "substitution", "player": "Olivier Giroud",   "team": "AC Milan" },
+            { "minute": 69, "type": "yellow_card",  "player": "Rafael Leao",      "team": "AC Milan" },
+            { "minute": 81, "type": "goal",         "player": "Kylian Mbappe",    "team": "Real Madrid" },
+            { "minute": 90, "type": "red_card",     "player": "Tijjani Reijnders","team": "AC Milan" }
+          ]
+        },
+        {
+          "id": "g-b-004",
+          "date": "2024-10-23",
+          "homeTeam": "Celtic",
+          "awayTeam": "Liverpool",
+          "events": [
+            { "minute": 12, "type": "goal",         "player": "Nicolas Kuhn",     "team": "Celtic" },
+            { "minute": 25, "type": "yellow_card",  "player": "Andrew Robertson", "team": "Liverpool" },
+            { "minute": 38, "type": "goal",         "player": "Mohamed Salah",    "team": "Liverpool" },
+            { "minute": 54, "type": "goal",         "player": "Darwin Nunez",     "team": "Liverpool" },
+            { "minute": 67, "type": "substitution", "player": "Callum McGregor",  "team": "Celtic" },
+            { "minute": 78, "type": "goal",         "player": "Luis Diaz",        "team": "Liverpool" },
+            { "minute": 88, "type": "yellow_card",  "player": "Ryan Gravenberch", "team": "Liverpool" }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "window": "Summer 2024",
+  "clubs": [
+    {
+      "id": "c01",
+      "name": "Arsenal",
+      "league": "Premier League",
+      "budget": 200000000,
+      "transfers": [
+        { "id": "tr001", "player": "Riccardo Calafiori",  "type": "in",  "fee": 42000000, "fromClub": "Bologna",          "nationality": "Italian",    "position": "DF", "age": 22, "rating": 7.8 },
+        { "id": "tr002", "player": "David Raya",          "type": "in",  "fee": 27000000, "fromClub": "Brentford",         "nationality": "Spanish",    "position": "GK", "age": 29, "rating": 7.4 },
+        { "id": "tr003", "player": "Oleksandr Zinchenko", "type": "out", "fee": 18000000, "toClub": "Galatasaray",         "nationality": "Ukrainian",  "position": "DF", "age": 27, "rating": 6.9 },
+        { "id": "tr004", "player": "Emile Smith Rowe",    "type": "out", "fee": 34000000, "toClub": "Fulham",              "nationality": "English",    "position": "MF", "age": 23, "rating": 7.1 }
+      ]
+    },
+    {
+      "id": "c02",
+      "name": "Liverpool",
+      "league": "Premier League",
+      "budget": 180000000,
+      "transfers": [
+        { "id": "tr005", "player": "Federico Chiesa",     "type": "in",  "fee": 12000000, "fromClub": "Juventus",          "nationality": "Italian",    "position": "FW", "age": 26, "rating": 7.2 },
+        { "id": "tr006", "player": "Giorgi Mamardashvili","type": "in",  "fee": 29000000, "fromClub": "Valencia",          "nationality": "Georgian",   "position": "GK", "age": 23, "rating": 7.5 },
+        { "id": "tr007", "player": "Fabio Carvalho",      "type": "out", "fee": 27500000, "toClub": "Bayer Leverkusen",    "nationality": "Portuguese", "position": "MF", "age": 21, "rating": 6.8 },
+        { "id": "tr008", "player": "Sepp van den Berg",   "type": "out", "fee": 20000000, "toClub": "Brentford",           "nationality": "Dutch",      "position": "DF", "age": 22, "rating": 6.9 }
+      ]
+    },
+    {
+      "id": "c03",
+      "name": "Manchester City",
+      "league": "Premier League",
+      "budget": 250000000,
+      "transfers": [
+        { "id": "tr009", "player": "Savio",               "type": "in",  "fee": 38000000, "fromClub": "Girona",            "nationality": "Brazilian",  "position": "MF", "age": 20, "rating": 7.6 },
+        { "id": "tr010", "player": "Ilkay Gundogan",      "type": "in",  "fee": 0,        "fromClub": "Barcelona",         "nationality": "German",     "position": "MF", "age": 33, "rating": 7.7 },
+        { "id": "tr011", "player": "Stefan Ortega",       "type": "out", "fee": 8000000,  "toClub": "Manchester United",   "nationality": "German",     "position": "GK", "age": 31, "rating": 6.7 },
+        { "id": "tr012", "player": "Julian Alvarez",      "type": "out", "fee": 75000000, "toClub": "Atletico Madrid",     "nationality": "Argentine",  "position": "FW", "age": 24, "rating": 8.1 }
+      ]
+    },
+    {
+      "id": "c04",
+      "name": "Chelsea",
+      "league": "Premier League",
+      "budget": 300000000,
+      "transfers": [
+        { "id": "tr013", "player": "Pedro Neto",          "type": "in",  "fee": 54000000, "fromClub": "Wolverhampton",     "nationality": "Portuguese", "position": "MF", "age": 24, "rating": 7.7 },
+        { "id": "tr014", "player": "Joao Felix",          "type": "in",  "fee": 45000000, "fromClub": "Atletico Madrid",   "nationality": "Portuguese", "position": "FW", "age": 24, "rating": 7.5 },
+        { "id": "tr015", "player": "Hakim Ziyech",        "type": "out", "fee": 21000000, "toClub": "Galatasaray",         "nationality": "Moroccan",   "position": "MF", "age": 31, "rating": 6.8 },
+        { "id": "tr016", "player": "Ian Maatsen",         "type": "out", "fee": 37500000, "toClub": "Aston Villa",         "nationality": "Dutch",      "position": "DF", "age": 22, "rating": 7.0 }
+      ]
+    },
+    {
+      "id": "c05",
+      "name": "Real Madrid",
+      "league": "La Liga",
+      "budget": 300000000,
+      "transfers": [
+        { "id": "tr017", "player": "Kylian Mbappe",       "type": "in",  "fee": 0,        "fromClub": "PSG",               "nationality": "French",     "position": "FW", "age": 25, "rating": 9.0 },
+        { "id": "tr018", "player": "Endrick",             "type": "in",  "fee": 60000000, "fromClub": "Palmeiras",         "nationality": "Brazilian",  "position": "FW", "age": 18, "rating": 7.3 },
+        { "id": "tr019", "player": "Joselu",              "type": "out", "fee": 3000000,  "toClub": "Espanyol",            "nationality": "Spanish",    "position": "FW", "age": 34, "rating": 6.5 },
+        { "id": "tr020", "player": "Brahim Diaz",         "type": "out", "fee": 35000000, "toClub": "AC Milan",            "nationality": "Spanish",    "position": "MF", "age": 25, "rating": 7.2 }
+      ]
+    },
+    {
+      "id": "c06",
+      "name": "Barcelona",
+      "league": "La Liga",
+      "budget": 150000000,
+      "transfers": [
+        { "id": "tr021", "player": "Dani Olmo",           "type": "in",  "fee": 55000000, "fromClub": "RB Leipzig",        "nationality": "Spanish",    "position": "MF", "age": 26, "rating": 8.0 },
+        { "id": "tr022", "player": "Pau Cubarsi",         "type": "in",  "fee": 0,        "fromClub": "Barcelona B",       "nationality": "Spanish",    "position": "DF", "age": 17, "rating": 7.6 },
+        { "id": "tr023", "player": "Ilkay Gundogan",      "type": "out", "fee": 0,        "toClub": "Manchester City",     "nationality": "German",     "position": "MF", "age": 33, "rating": 7.7 },
+        { "id": "tr024", "player": "Ferran Torres",       "type": "out", "fee": 30000000, "toClub": "Atletico Madrid",     "nationality": "Spanish",    "position": "MF", "age": 24, "rating": 7.1 }
+      ]
+    }
+  ]
+}

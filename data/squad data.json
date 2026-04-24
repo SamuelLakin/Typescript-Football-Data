@@ -1,0 +1,74 @@
+{
+  "league": "Premier League",
+  "season": "2024-25",
+  "teams": [
+    {
+      "id": "t01",
+      "name": "Arsenal",
+      "city": "London",
+      "stadium": "Emirates Stadium",
+      "capacity": 60704,
+      "squad": [
+        { "id": "p001", "name": "David Raya",        "position": "GK", "age": 29, "nationality": "Spanish",   "appearances": 28, "goals": 0, "assists": 0, "yellowCards": 1, "redCards": 0, "rating": 7.4 },
+        { "id": "p002", "name": "Ben White",          "position": "DF", "age": 27, "nationality": "English",   "appearances": 24, "goals": 1, "assists": 3, "yellowCards": 2, "redCards": 0, "rating": 7.1 },
+        { "id": "p003", "name": "William Saliba",     "position": "DF", "age": 23, "nationality": "French",    "appearances": 30, "goals": 2, "assists": 1, "yellowCards": 3, "redCards": 0, "rating": 7.8 },
+        { "id": "p004", "name": "Declan Rice",        "position": "MF", "age": 26, "nationality": "English",   "appearances": 31, "goals": 7, "assists": 8, "yellowCards": 6, "redCards": 0, "rating": 8.1 },
+        { "id": "p005", "name": "Bukayo Saka",        "position": "MF", "age": 23, "nationality": "English",   "appearances": 29, "goals": 13,"assists": 9, "yellowCards": 2, "redCards": 0, "rating": 8.4 },
+        { "id": "p006", "name": "Kai Havertz",        "position": "FW", "age": 25, "nationality": "German",    "appearances": 30, "goals": 13,"assists": 5, "yellowCards": 3, "redCards": 0, "rating": 7.6 },
+        { "id": "p007", "name": "Martin Odegaard",    "position": "MF", "age": 26, "nationality": "Norwegian", "appearances": 20, "goals": 4, "assists": 6, "yellowCards": 4, "redCards": 0, "rating": 7.9 },
+        { "id": "p008", "name": "Gabriel Magalhaes",  "position": "DF", "age": 27, "nationality": "Brazilian", "appearances": 26, "goals": 3, "assists": 0, "yellowCards": 5, "redCards": 1, "rating": 7.3 }
+      ]
+    },
+    {
+      "id": "t02",
+      "name": "Liverpool",
+      "city": "Liverpool",
+      "stadium": "Anfield",
+      "capacity": 61276,
+      "squad": [
+        { "id": "p009", "name": "Alisson Becker",     "position": "GK", "age": 32, "nationality": "Brazilian", "appearances": 27, "goals": 0, "assists": 1, "yellowCards": 0, "redCards": 0, "rating": 7.6 },
+        { "id": "p010", "name": "Trent Alexander-Arnold","position":"DF","age": 26, "nationality": "English",  "appearances": 28, "goals": 3, "assists": 10,"yellowCards": 3, "redCards": 0, "rating": 7.9 },
+        { "id": "p011", "name": "Virgil van Dijk",    "position": "DF", "age": 33, "nationality": "Dutch",     "appearances": 30, "goals": 4, "assists": 2, "yellowCards": 4, "redCards": 0, "rating": 7.7 },
+        { "id": "p012", "name": "Mohamed Salah",      "position": "FW", "age": 32, "nationality": "Egyptian",  "appearances": 32, "goals": 24,"assists": 13,"yellowCards": 1, "redCards": 0, "rating": 9.0 },
+        { "id": "p013", "name": "Luis Diaz",          "position": "FW", "age": 28, "nationality": "Colombian", "appearances": 30, "goals": 12,"assists": 6, "yellowCards": 2, "redCards": 0, "rating": 7.8 },
+        { "id": "p014", "name": "Dominik Szoboszlai", "position": "MF", "age": 24, "nationality": "Hungarian", "appearances": 29, "goals": 5, "assists": 7, "yellowCards": 5, "redCards": 0, "rating": 7.3 },
+        { "id": "p015", "name": "Ryan Gravenberch",   "position": "MF", "age": 23, "nationality": "Dutch",     "appearances": 31, "goals": 3, "assists": 4, "yellowCards": 3, "redCards": 0, "rating": 7.5 },
+        { "id": "p016", "name": "Andrew Robertson",   "position": "DF", "age": 30, "nationality": "Scottish",  "appearances": 25, "goals": 1, "assists": 5, "yellowCards": 4, "redCards": 0, "rating": 7.0 }
+      ]
+    },
+    {
+      "id": "t03",
+      "name": "Manchester City",
+      "city": "Manchester",
+      "stadium": "Etihad Stadium",
+      "capacity": 53527,
+      "squad": [
+        { "id": "p017", "name": "Ederson",            "position": "GK", "age": 31, "nationality": "Brazilian", "appearances": 26, "goals": 0, "assists": 0, "yellowCards": 1, "redCards": 0, "rating": 7.2 },
+        { "id": "p018", "name": "Ruben Dias",         "position": "DF", "age": 27, "nationality": "Portuguese","appearances": 28, "goals": 1, "assists": 1, "yellowCards": 3, "redCards": 0, "rating": 7.4 },
+        { "id": "p019", "name": "Kevin De Bruyne",    "position": "MF", "age": 33, "nationality": "Belgian",   "appearances": 18, "goals": 4, "assists": 8, "yellowCards": 2, "redCards": 0, "rating": 8.0 },
+        { "id": "p020", "name": "Erling Haaland",     "position": "FW", "age": 24, "nationality": "Norwegian", "appearances": 28, "goals": 22,"assists": 4, "yellowCards": 2, "redCards": 0, "rating": 8.5 },
+        { "id": "p021", "name": "Phil Foden",         "position": "MF", "age": 24, "nationality": "English",   "appearances": 27, "goals": 10,"assists": 7, "yellowCards": 3, "redCards": 0, "rating": 7.9 },
+        { "id": "p022", "name": "Bernardo Silva",     "position": "MF", "age": 30, "nationality": "Portuguese","appearances": 30, "goals": 6, "assists": 9, "yellowCards": 2, "redCards": 0, "rating": 7.8 },
+        { "id": "p023", "name": "Rodri",              "position": "MF", "age": 28, "nationality": "Spanish",   "appearances": 14, "goals": 2, "assists": 3, "yellowCards": 4, "redCards": 0, "rating": 7.6 },
+        { "id": "p024", "name": "Manuel Akanji",      "position": "DF", "age": 29, "nationality": "Swiss",     "appearances": 25, "goals": 0, "assists": 1, "yellowCards": 2, "redCards": 0, "rating": 7.1 }
+      ]
+    },
+    {
+      "id": "t04",
+      "name": "Chelsea",
+      "city": "London",
+      "stadium": "Stamford Bridge",
+      "capacity": 40343,
+      "squad": [
+        { "id": "p025", "name": "Robert Sanchez",     "position": "GK", "age": 27, "nationality": "Spanish",   "appearances": 22, "goals": 0, "assists": 0, "yellowCards": 2, "redCards": 0, "rating": 6.8 },
+        { "id": "p026", "name": "Reece James",        "position": "DF", "age": 25, "nationality": "English",   "appearances": 16, "goals": 1, "assists": 2, "yellowCards": 3, "redCards": 0, "rating": 7.0 },
+        { "id": "p027", "name": "Cole Palmer",        "position": "MF", "age": 22, "nationality": "English",   "appearances": 31, "goals": 17,"assists": 11,"yellowCards": 3, "redCards": 0, "rating": 8.3 },
+        { "id": "p028", "name": "Nicolas Jackson",    "position": "FW", "age": 23, "nationality": "Senegalese","appearances": 28, "goals": 14,"assists": 4, "yellowCards": 5, "redCards": 1, "rating": 7.4 },
+        { "id": "p029", "name": "Enzo Fernandez",     "position": "MF", "age": 24, "nationality": "Argentine", "appearances": 27, "goals": 3, "assists": 6, "yellowCards": 6, "redCards": 0, "rating": 7.1 },
+        { "id": "p030", "name": "Noni Madueke",       "position": "MF", "age": 22, "nationality": "English",   "appearances": 26, "goals": 8, "assists": 5, "yellowCards": 2, "redCards": 0, "rating": 7.3 },
+        { "id": "p031", "name": "Levi Colwill",       "position": "DF", "age": 21, "nationality": "English",   "appearances": 24, "goals": 1, "assists": 1, "yellowCards": 3, "redCards": 0, "rating": 7.2 },
+        { "id": "p032", "name": "Marc Cucurella",     "position": "DF", "age": 26, "nationality": "Spanish",   "appearances": 28, "goals": 0, "assists": 3, "yellowCards": 5, "redCards": 0, "rating": 7.0 }
+      ]
+    }
+  ]
+}
